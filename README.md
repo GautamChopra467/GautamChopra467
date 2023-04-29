@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gautam Chopra</h1>
 <h3 align="center">I build things for the web.</h3>
 
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 - 👨‍💻 All of my projects are available at [https://gautamchopra467.github.io/portfolio/](https://gautamchopra467.github.io/portfolio/)
 
 - 📫 How to reach me **harshchopra467@gmail.com**
